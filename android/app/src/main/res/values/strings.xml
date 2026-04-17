@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="widget_description">Quick access to add income/expense and view balance</string>
+
+    <!-- Widget Descriptions -->
+    <string name="widget_horizontal_small_description">Wallet - Horizontal Small (Quick Actions)</string>
+    <string name="widget_horizontal_medium_description">Wallet - Horizontal Medium (Quick Actions)</string>
+    <string name="widget_vertical_small_description">Wallet - Vertical Small (Quick Actions)</string>
+    <string name="widget_vertical_medium_description">Wallet - Vertical Medium (Quick Actions)</string>
+</resources>
